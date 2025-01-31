@@ -1,7 +1,7 @@
 # 枫诗病毒检测工具
 
 ### 简介
-利用python编写的一款多引擎病毒检测工具。
+利用python编写的一款多引擎病毒检测工具。作者：123456aaaafsdeg
 
 ### 运行环境
 * Windows 7+（不含WinServer）
