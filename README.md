@@ -26,7 +26,7 @@
 > 
 > \APEX\APEX*.*             ------     APEX命令行组件
 > 
-> \APEX\models\*.*          ------     APEX模型和数据文件
+> \APEX\models\ * . *          ------     APEX模型和数据文件
 > 
 > \ikarus\t3scan_w64.exe    ------     T3命令行关键组件
 > 
